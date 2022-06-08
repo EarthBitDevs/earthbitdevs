@@ -5,13 +5,13 @@ title: "Socratic 1"
 meetup: Jitsi
 ---
 
+Topics are WIP. Please contribute at https://github.com/EarthBitDevs/earthbitdevs/discussions
+
 # Announcements
 
 - Respect people's privacy
 - Interaction and asking questions are encouraged
 - [Chatham House Rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
-- TBD
-
 
 # Events
 
@@ -32,7 +32,6 @@ meetup: Jitsi
 - [Simple Vault w/ APO](https://github.com/darosior/simple-anyprevout-vault) [Concerns](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-May/020430.html)
 - [Spacechains by Ruben Somsen](https://twitter.com/SomsenRuben/status/1519009818425671684?s=20&t=lyPz7ZUV9PBeoaLmFfYEPg) ([CTV Spacechains](https://github.com/fiatjaf/simple-ctv-spacechain))
 - [DLC Channels](https://github.com/discreetlogcontracts/dlcspecs/pull/196)
-
 
 # Lightning
 - [Blind Signing Risks](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-May/003579.html)
