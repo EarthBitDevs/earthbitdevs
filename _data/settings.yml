@@ -1,6 +1,6 @@
-title: 'Austin Bitcoin Developers'
-tagline: 'Austin Bitcoin Developers is a meetup devoted to the research and development of Bitcoin'
+title: 'Earth BitDevs'
+tagline: 'Earth BitDevs is a global, online community for those interested in discussing and participating in the research and development of Bitcoin and related protocols.'
 
 menu:
   - {name: 'Events', url: '/events'}
-  - {name: 'Meetup', url: 'https://www.meetup.com/Austin-Bitcoin-Developers/', external: true}
+  - {name: 'Contact', url: '#', external: true}
