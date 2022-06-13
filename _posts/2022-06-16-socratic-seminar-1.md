@@ -35,6 +35,6 @@ Topics are WIP. Please contribute at https://github.com/EarthBitDevs/earthbitdev
 
 # Lightning
 - [Blind Signing Risks](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-May/003579.html)
-- [Taro explainer video](https://www.youtube.com/watch?v=-yiTtO_p3Cw)(useful to learn about merkle trees)
+- [Taro explainer video](https://www.youtube.com/watch?v=-yiTtO_p3Cw)(useful to learn about merkle trees TEST)
 
 # Projects
