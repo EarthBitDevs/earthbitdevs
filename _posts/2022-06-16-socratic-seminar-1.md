@@ -2,7 +2,7 @@
 layout: post
 type: socratic
 title: "Socratic 1"
-meetup: Jitsi
+meetup: [Jitsi](https://meet.jit.si/joinearthbitdevs)
 ---
 
 Topics are WIP. Please contribute at https://github.com/EarthBitDevs/earthbitdevs/discussions
