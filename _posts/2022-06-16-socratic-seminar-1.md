@@ -12,7 +12,7 @@ meetup: https://meet.jit.si/joinearthbitdevs
 - Interaction and asking questions are encouraged
 - Agenda
   - Introductions
-  - Housekeeping: meeting format, times, group forum, topics
+  - Housekeeping: meeting format, times, discussion forum, topics
   - Topic discussions
 
 # Privacy
