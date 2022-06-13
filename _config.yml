@@ -12,6 +12,9 @@ sass:
 title: "Earth BitDevs"
 description: "Earth BitDevs is a global, online community for those interested in discussing and participating in the research and development of Bitcoin and related protocols."
 
+# Render future events
+future: true
+ 
 # Leave out some files
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', '.sass-cache']
 
