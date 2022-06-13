@@ -2,7 +2,7 @@
 layout: post
 type: socratic
 title: "Socratic 1"
-meetup: [Jitsi](https://meet.jit.si/joinearthbitdevs)
+meetup: https://meet.jit.si/joinearthbitdevs
 ---
 
 # Announcements and Introductions
