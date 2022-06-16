@@ -3,4 +3,4 @@ tagline: 'Earth BitDevs is a global, online community for those interested in di
 
 menu:
   - {name: 'Events', url: '/events'}
-  - {name: 'Contact', url: '#', external: true}
+  - {name: 'Telegram', url: 'https://t.me/+q5-5o7UP-us0ZmM1', external: true}
