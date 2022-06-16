@@ -2,8 +2,8 @@
 layout: post
 type: socratic
 title: "Socratic 1"
+date: 2022-06-16 13:00:00
 meetup: https://meet.jit.si/joinearthbitdevs
-datetime: "16 Jun 2022, 13 UTC"
 ---
 
 # Announcements and Introductions
