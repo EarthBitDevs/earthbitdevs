@@ -13,4 +13,5 @@ meetup: https://meet.jit.si/joinearthbitdevs
 - [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule)
 - Earth BitDevs overview
 
-# Topic discussion based on last four Bitcoin OpTech newsletters
+# Topic discussion 
+Discussion is focused on content present in the last four [Bitcoin OpTech](https://bitcoinops.org/) newsletters.
