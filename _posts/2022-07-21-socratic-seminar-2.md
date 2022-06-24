@@ -14,4 +14,4 @@ meetup: https://meet.jit.si/joinearthbitdevs
 - Earth BitDevs overview
 
 # Topic discussion 
-Discussion is focused on content present in the last four [Bitcoin OpTech](https://bitcoinops.org/) newsletters.
+Discussion is focused on content present in the last four [Bitcoin Optech](https://bitcoinops.org/) newsletters.
