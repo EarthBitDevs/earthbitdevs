@@ -2,8 +2,8 @@
 layout: post
 type: socratic
 title: "Socratic 2"
-date: 2022-07-21 13:00:00
-duration: 90 minutes
+date: 2022-07-21 13 UTC
+duration: 90 mins
 meetup: https://meet.jit.si/joinearthbitdevs
 ---
 
