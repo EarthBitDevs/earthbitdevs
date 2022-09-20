@@ -4,7 +4,7 @@ type: socratic
 title: "Socratic 5"
 datetime: "2022-10-05 9 UTC"
 duration: 60 mins
-meetup: https://meet.jit.si/APACBitdevs
+meetup: https://www.meetup.com/apac-bitcoin/events/288575837/
 ---
 
 # Announcements
